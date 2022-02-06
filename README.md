@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammet Ali Çaki
 - 👀 I’m interested in Backend and Mobile Development, ML/DL , Space Sciences , Physics, Sci-Fi and Fantasy Culture, Cinema
-- 🌱 I’m currently learning React, ML with MATLAB
-- 💞️ I’m looking to collaborate on ML project about Landing a Mars Rover Automation
+- 🌱 I’m currently learning Spring 5 , React, ML with Python
 - 📫 How to reach me malicaki@protonmail.com
 
 <!---
