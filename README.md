@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammet Ali Çaki
 - 👀 I’m interested in Backend and Mobile Development, ML/DL , Space Sciences , Physics, Sci-Fi and Fantasy Culture, Cinema
-- 🌱 I’m currently learning Spring 5 , React, ML with Python
+- 🌱 I’m currently learning Spring Framework Environment , React, ML with Python
 - 📫 How to reach me malicaki@protonmail.com
 
 <!---
