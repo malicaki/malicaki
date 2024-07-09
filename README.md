@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammet Ali Çaki
 - 👀 I’m interested in Full Stack Web Development, Space Sciences, Physics, Sci-Fi and Fantasy Culture, Cinema
-- 🌱 I’m currently learning Spring Framework Environment, Angular 2+/NgRx, ML with Python
+- 🌱 I’m currently learning Go and Django Framework
 - 📫 How to reach me malicaki@protonmail.com
 
 <!---
